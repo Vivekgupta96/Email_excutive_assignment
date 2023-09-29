@@ -6,3 +6,5 @@ https://landing-page9.netlify.app/
 
 ### Single Page:
 https://single-product-page1.netlify.app/
+
+## Page are responsive for both pc and mobile
